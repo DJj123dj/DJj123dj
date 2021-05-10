@@ -1,6 +1,7 @@
 Hi, I'm Jasper.
 
 I can speak Dutch & some English.
+I'm also always happy 😀!
 ---------------------------------------
 MY EXPERIENCE:
   
@@ -9,6 +10,7 @@ MY EXPERIENCE:
     AppleScript
     Javascript
     HTML (a little bit)
+    Lua (51.369593367043%  => 😛)
     
   EXTRA:
     Scratch
