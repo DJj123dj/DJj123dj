@@ -14,7 +14,7 @@ CSS
 Python
 
 ### Other things from me
-[Scratch](https://scratch.com)
+[Scratch](https://scratch.com "hello")
 Lego Mindstorms EV3
 
 I'M WORKING ON:
