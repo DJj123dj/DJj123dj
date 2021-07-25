@@ -6,13 +6,13 @@ I'm also always happy 😀!
 For more info about me [visit my website](https://www.dj-dj.be "go to www.dj-dj.be")
 
 ### My languages experience
-##### From "I can do well" to "I can do less well":
-Javascript
-AppleScript
-Lua
-HTML
-CSS
-Python
+#### From "I can do well" to "I can do less well":
+Javascript  
+AppleScript  
+Lua  
+HTML  
+CSS  
+Python  
 
 ### Other things I can do
 [Scratch](https://scratch.mit.edu/users/DJj123dj "go to scratch")  
