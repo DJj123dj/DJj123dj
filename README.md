@@ -5,13 +5,12 @@ I speak Dutch and a little English.
 I'm also always happy 😀!  
 
 ## My experience
-  
-  LANGUAGES:
-    Swift (Apple)
-    AppleScript
-    Javascript
-    HTML (a little bit)
-    Lua (51.369593367043%  => 😛)
+###### From good to not good:
+AppleScript
+Javascript
+HTML
+CSS
+Lua (51.369593367043%  => 😛)
     
   EXTRA:
     Scratch
