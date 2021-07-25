@@ -5,7 +5,7 @@ I speak Dutch and a little English.
 I'm also always happy 😀!  
 
 ## My experience
-###### From good to not good:
+##### From "I can do well" to "I can do less well".
 AppleScript
 Javascript
 HTML
