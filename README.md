@@ -10,6 +10,7 @@ For more info about me [visit my website](https://www.dj-dj.be "go to www.dj-dj.
 Javascript  
 AppleScript  
 Lua  
+Swift  
 HTML  
 CSS  
 Python  
