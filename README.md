@@ -14,9 +14,9 @@ CSS
 Python
 
 ### Other things from me
-    [Scratch](https://scratch.com)
-    Lego Mindstorms EV3
----------------------------------------
+[Scratch](https://scratch.com hello)
+Lego Mindstorms EV3
+
 I'M WORKING ON:
 My MineBot, its a discord bot that give ALL the info about minecraft in your server
 Now it is in BETA and not released yet. (and is now only in Dutch)
