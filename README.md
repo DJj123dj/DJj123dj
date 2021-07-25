@@ -4,16 +4,17 @@ My name is Jasper, and i live in Belgium.
 I speak Dutch and a little English.  
 I'm also always happy 😀!  
 
-## My experience
-##### From "I can do well" to "I can do less well".
-AppleScript
+### My experience
+##### From "I can do well" to "I can do less well":
 Javascript
+AppleScript
+Lua
 HTML
 CSS
-Lua (51.369593367043%  => 😛)
-    
-  EXTRA:
-    Scratch
+Python
+
+### Other things from me
+    [Scratch](https://scratch.com)
     Lego Mindstorms EV3
 ---------------------------------------
 I'M WORKING ON:
