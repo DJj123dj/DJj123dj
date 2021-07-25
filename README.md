@@ -1,10 +1,11 @@
 # My profile
 
-My name is Jasper, and i live in Belgium.  
+My name is Jasper, and I live in Belgium.  
 I speak Dutch and a little English.  
 I'm also always happy 😀!  
+For more info about me [visit my website](https://www.dj-dj.be "go to www.dj-dj.be")
 
-### My experience
+### My languages experience
 ##### From "I can do well" to "I can do less well":
 Javascript
 AppleScript
@@ -13,11 +14,21 @@ HTML
 CSS
 Python
 
-### Other things from me
-[Scratch](https://scratch.com "hello")
-Lego Mindstorms EV3
+### Other things I can do
+[Scratch](https://scratch.mit.edu/users/DJj123dj "go to scratch")  
+Lego Mindstorms EV3  
+Photoshop  
+Illustrator  
 
-I'M WORKING ON:
-My MineBot, its a discord bot that give ALL the info about minecraft in your server
-Now it is in BETA and not released yet. (and is now only in Dutch)
----------------------------------------
+### You can ask me for
+Discord bots  
+Node.js apps  
+Websites  
+Apps (for mac only)  
+Minecraft mods & plugins  
+Rendering lego in 3D  
+  
+Some funny roblox games 😄  
+
+### I'm currently working at
+The MineBot, a discord bot that knows everything about minecraft
