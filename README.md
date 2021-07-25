@@ -1,8 +1,8 @@
 # My profile
 
-My name is Jasper, and i live in Belgium.
-I speak Dutch and a little English.
-I'm also always happy 😀!
+My name is Jasper, and i live in Belgium.  
+I speak Dutch and a little English.  
+I'm also always happy 😀!  
 
 ## My experience
   
