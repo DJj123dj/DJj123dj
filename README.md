@@ -1,9 +1,10 @@
-Hi, I'm Jasper.
+# My profile
 
-I can speak Dutch & some English.
+My name is Jasper, and i live in Belgium.
+I speak Dutch and a little English.
 I'm also always happy 😀!
----------------------------------------
-MY EXPERIENCE:
+
+## My experience
   
   LANGUAGES:
     Swift (Apple)
