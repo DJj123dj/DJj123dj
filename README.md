@@ -24,7 +24,7 @@ At some point, I also liked adding something graphic to it and focusing more on 
 For help with all of the above you can find me on discord or on my website.
 
 ### languages
-JavaScript, TypeScript, HTML, CSS, node.js, AppleScript, Swift, Python, Lua
+JavaScript, TypeScript, HTML, CSS, node.js, AppleScript, Swift, Python & Lua
 
 ## I'm currently working on
 ### [SimpleOS](https://www.dj-dj.be/projects/simpleos/)
