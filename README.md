@@ -38,8 +38,8 @@ I am currently also working on an AI project rounding up discord, I want to make
 
 ## Stats and contact
 ### stats
-<img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=gotham"> </img>
-<img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJj123dj&theme=gotham&layout=compact&langs_count=20"> </img>
+<img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=gotham&hide_border=true"> </img>
+<img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJj123dj&theme=gotham&layout=compact&langs_count=20&hide_border=true"> </img>
 
 ### contact
 
