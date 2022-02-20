@@ -1,6 +1,6 @@
 # I'm DJj123dj, also known as Jasper.
 ## Who am I?
-I'm almost 14 years old and I live in Belgium. I'm usually happy and I am very sporty. My hobby is Basket and I'm in a basket club.
+I'm almost 14 years old and I live in Belgium. I'm usually happy and I love Basketball.
 
 ## My experience
 I once started writing simple scripts in the language "applescript" when I was 7 years old. Then I liked programming so much that I chose multiple languages. I've started programming Swift, but I'm not quite done with it yet.
@@ -27,13 +27,13 @@ For help with all of the above you can find me on discord or on my website.
 JavaScript, TypeScript, HTML, CSS, node.js, AppleScript, Swift, Python & Lua
 
 ## I'm currently working on
-### [SimpleOS](https://www.dj-dj.be/projects)
+### [SimpleOS](https://www.dj-dj.be/projects/simpleos)
 A user-friendly operating system for ComputerCraft. Entirely written in Lua & node.js.
 
-### [MineBot](https://www.dj-dj.be/projects)
-The most advanced minecraft themed discord bot, written in node.js, HTML & CSS. The release date will normally be December 29, 2021.
+### [MineBot Network](https://www.dj-dj.be/projects/minebotnetwork)
+An entire minecraft themed network with discord bots, websites, server scanners & the most advanced minecraft tools ever.
 
-### [NextAI](https://www.dj-dj.be/projects)
+### [NextAI](https://www.dj-dj.be/projects/nextai)
 This is an AI project for discord, you can make entire chatbots with it. I want to make the most advanced AI discord bots, eventually the project will be Open-Source. It's a module that is already used in several of my bots (minebot, custom bots).
 
 ## Stats and contact
@@ -43,4 +43,4 @@ This is an AI project for discord, you can make entire chatbots with it. I want 
 
 ### contact
 
-[Discord](https://discord.gg/26vT9wt3n3) - [Website](https://www.dj-dj.be) - [MineBot Community](https://discord.gg/DpeumEUvXN)
+[Discord](https://discord.gg/26vT9wt3n3) - [Website](https://www.dj-dj.be) - [MineBot Network](https://discord.gg/DpeumEUvXN)
