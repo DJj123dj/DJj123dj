@@ -1,9 +1,10 @@
-# I'm DJj123dj, also known as Jasper.
+# Hello, I'm DJj123dj
 ## Who am I?
-I'm almost 14 years old and I live in Belgium. I'm usually happy and I love Basketball.
+My first name is Jasper. I'm almost 14 years old and I live in Belgium.
+I'm usually happy and I love Basketball.
 
 ## My experience
-I once started writing simple scripts in the language "applescript" when I was 7 years old. Then I liked programming so much that I chose multiple languages. I've started programming Swift, but I'm not quite done with it yet.
+I once started writing simple scripts in the language "applescript" when I was 9 years old. Then I liked programming so much that I chose multiple languages. I've started programming Swift, but I'm not quite done with it yet.
 
 
 2 years ago I started with node.js after I already knew a basic course HTML, CSS & Javascript.
