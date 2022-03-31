@@ -28,13 +28,13 @@ For help with all of the above you can find me on discord or on my website.
 JavaScript, TypeScript, HTML, CSS, node.js, AppleScript, Swift, Python & Lua
 
 ## I'm currently working on
-### [SimpleOS](https://www.dj-dj.be/projects/simpleos)
+### [SimpleOS (go to website)](https://www.dj-dj.be/projects/simpleos)
 A user-friendly operating system for ComputerCraft. Entirely written in Lua & node.js.
 
-### [MineBot Network](https://www.dj-dj.be/projects/minebotnetwork)
+### [MineBot Network (go to website)](https://www.dj-dj.be/projects/minebotnetwork)
 An entire minecraft themed network with discord bots, websites, server scanners & the most advanced minecraft tools ever.
 
-### [NextAI](https://www.dj-dj.be/projects/nextai)
+### [NextAI (go to website)](https://www.dj-dj.be/projects/nextai)
 This is an AI project for discord, you can make entire chatbots with it. I want to make the most advanced AI discord bots, eventually the project will be Open-Source. It's a module that is already used in several of my bots (minebot, custom bots).
 
 ## Stats and contact
