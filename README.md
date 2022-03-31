@@ -44,4 +44,4 @@ This is an AI project for discord, you can make entire chatbots with it. I want 
 
 ### contact
 
-[Discord](https://discord.gg/26vT9wt3n3) - [Website](https://www.dj-dj.be) - [MineBot Network](https://discord.gg/DpeumEUvXN)
+[Discord](https://discord.gg/26vT9wt3n3) - [Website](https://www.dj-dj.be)
