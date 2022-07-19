@@ -1,7 +1,7 @@
 # Hello, I'm DJj123dj
 ## Who am I?
 My first name is Jasper. I'm almost 14 years old and I live in Belgium.
-I'm usually happy and I love Basketball.
+I'm usually happy and I love programming!
 
 ## My experience
 I once started writing simple scripts in the language "applescript" when I was 9 years old. Then I liked programming so much that I chose multiple languages. I've started programming Swift, but I'm not quite done with it yet.
@@ -25,9 +25,13 @@ At some point, I also liked adding something graphic to it and focusing more on 
 For help with all of the above you can find me on discord or on my website.
 
 ### languages
-JavaScript, TypeScript, HTML, CSS, node.js, AppleScript, Swift, Python & Lua
+JavaScript, TypeScript, HTML, CSS, node.js, AppleScript, Swift, Arduino (c++) & Lua
 
 ## I'm currently working on
+
+### [Open Ticket](https://www.github.com/DJj123dj/open-ticket)
+The most advanced open source ticket bot for discord!
+
 ### [SimpleOS (go to website)](https://www.dj-dj.be/projects/simpleos)
 A user-friendly operating system for ComputerCraft. Entirely written in Lua & node.js.
 
@@ -43,5 +47,10 @@ This is an AI project for discord, you can make entire chatbots with it. I want 
 <img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJj123dj&theme=gotham&layout=compact&langs_count=20&hide_border=true"> </img>
 
 ### contact
+Email:
+support@dj-dj.be
+
+Private Email:
+hotdog@dj-dj.be
 
 [Discord](https://discord.gg/26vT9wt3n3) - [Website](https://www.dj-dj.be)
