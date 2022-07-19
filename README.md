@@ -18,14 +18,17 @@ At some point, I also liked adding something graphic to it and focusing more on 
 - discord bots
 - html & css
 - Javascript & Typescript
-- Python
+- Arduino
+- Applescript
 - Lua & Roblox Games.
 - Computercraft
+- Back-end & app development
+- Electron apps
 
 For help with all of the above you can find me on discord or on my website.
 
 ### languages
-JavaScript, TypeScript, HTML, CSS, node.js, AppleScript, Swift, Arduino (c++) & Lua
+JavaScript, TypeScript, HTML, CSS, node.js, AppleScript, Swift, Arduino (c++), Electron & Lua
 
 ## I'm currently working on
 
