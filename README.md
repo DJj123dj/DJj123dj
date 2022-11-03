@@ -11,7 +11,7 @@ I'm the owner of DJdj Development, a starting group of developers. We make a lot
 
 ## My experience
 I started with writing applescript, but I wanted more! So I started with other languages.
-I discovered <img src="https://cdn.discordapp.com/emojis/1037675024502505519.webp?size=256" width="20px"> mid 2021. When I saw the first discord bot, I wanted to create them too. And thats where the journey started.
+I discovered <img src="https://www.dj-dj.be/wp-content/uploads/2022/11/clyde.png" width="20px"> mid 2021. When I saw the first discord bot, I wanted to create them too. And thats where the journey started.
 <details>
   <summary>Click for more details!</summary>
   
