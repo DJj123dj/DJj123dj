@@ -4,15 +4,26 @@ My name is Jasper. I'm 14 years old and I live in Belgium.
 I started programming when I was 9, and I still love it to this day.
 I'm someone that loves to discover new things, thats why I have a wide range of things that I can do.
 
+I'm the owner of DJdj Development, a starting group of developers. We make a lot of cool stuff!
+
+<img src="https://www.dj-dj.be/wp-content/uploads/2021/07/logo-programmeren.png" width="200px">
+
 ## My experience
-I once started writing simple scripts in the language "applescript" when I was 9 years old. Then I liked programming so much that I chose multiple languages. I've started programming Swift, but I'm not quite done with it yet.
+I started with writing applescript, but I wanted more! So I started with other languages.
+I discovered <img src="https://cdn.discordapp.com/emojis/1037675024502505519.webp?size=256" width="20px"> mid 2021. When I saw the first discord bot, I wanted to create them too. And thats where the journey started.
+<details>
+  <summary>Click for more details!</summary>
+  
+  ### My Story (detailed)
+  
+  I started writing simple scripts in the language "applescript" when I was 9 years old (2017). I was getting addicted to programming so much that I wanted to program 24/7. It was just the feeling of "I can create anything I want!" My second language I started with was Swift from Apple. I can write the basics now, but i'm not finished yet.
 
+  In early 2021, I started with node.js when I discovered Discord. By creating discord bots & experimenting with the language. I slowly got to know Javascript, HTML & CSS. I'm still working with node.js today! It's my favourite language!
 
-2 years ago I started with node.js after I already knew a basic course HTML, CSS & Javascript.
-I stayed on node.js for a long time and now I'm still working with it.
-
-
-At some point, I also liked adding something graphic to it and focusing more on games. So I started making python apps and minecraft mods. I also made a roblox app once. Because I'm good at lua too. Now I'm making my own OS for ComputerCraft!
+  In the summer of 2022 did I notice a problem... I could only do backend! So I started discovering a lot of graphical languages. I started with Tailwind CSS & HTML websites, I also made a roblox app once.
+  
+  In late 2022, app development was on the planning. I started with creating apps & games, In Electron, Godot & Unity. I also learned Python & PHP :)
+</details>
 
 ### You can ask me for:
 - node.js apps
