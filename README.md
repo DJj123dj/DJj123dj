@@ -1,6 +1,7 @@
 # Hello, I'm DJj123dj
-## Who am I?
 My name is Jasper. I'm 14 years old and I live in Belgium.
+Most people know me as DJj123dj or just dj :)
+
 I started programming when I was 9, and I still love it to this day.
 I'm someone that loves to discover new things, thats why I have a wide range of things that I can do.
 
