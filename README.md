@@ -1,7 +1,8 @@
 # Hello, I'm DJj123dj
 ## Who am I?
-My first name is Jasper. I'm almost 14 years old and I live in Belgium.
-I'm usually happy and I love programming!
+My name is Jasper. I'm 14 years old and I live in Belgium.
+I started programming when I was 9, and I still love it to this day.
+I'm someone that loves to discover new things, thats why I have a wide range of things that I can do.
 
 ## My experience
 I once started writing simple scripts in the language "applescript" when I was 9 years old. Then I liked programming so much that I chose multiple languages. I've started programming Swift, but I'm not quite done with it yet.
