@@ -59,8 +59,8 @@ This is an AI project for discord, you can make entire chatbots with it. I want 
 
 ## Stats and contact
 ### stats
-<img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=gotham&hide_border=true"> </img>
-<img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJj123dj&theme=gotham&layout=compact&langs_count=20&hide_border=true"> </img>
+<img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=north&hide_border=true"> </img>
+<img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJj123dj&theme=north&layout=compact&langs_count=20&hide_border=true"> </img>
 
 ### contact
 Email:
