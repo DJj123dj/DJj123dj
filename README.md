@@ -42,19 +42,39 @@ node.js apps, discord bots, html & css, Javascript, Arduino, Applescript, Lua & 
 
 <ins>If you need me for a project, feel free to Email me or send a DM via discord!</ins>
 
-## I'm currently working on
+## My Projects
 
 ### [Open Ticket](https://www.github.com/DJj123dj/open-ticket)
-The most advanced open source ticket bot for discord!
+**Language: node.js | github stars: 51 | type: discord bot**</br>
+One of the most customisable discord ticket bots of all time!
+Create your own layout for buttons & edit everything in all the embeds!
+But remember, our goal is simplicity! So thats why we created a config file that is easy to understand!
 
-### [SimpleOS (go to website)](https://www.dj-dj.be/projects/simpleos)
-A user-friendly operating system for ComputerCraft. Entirely written in Lua & node.js.
+<img src="https://www.dj-dj.be/wp-content/uploads/2022/04/openticket-logo-2.png" width="100px">
 
-### [MineBot Network (go to website)](https://www.dj-dj.be/projects/minebotnetwork)
-An entire minecraft themed network with discord bots, websites, server scanners & the most advanced minecraft tools ever.
+[Visit on website](https://www.dj-dj.be/projects/open-ticket) - [GitHub](https://openticket.dj-dj.be) - [Wiki](https://docs.openticket.dj-dj.be)
+<hr width="70%">
 
-### [NextAI (go to website)](https://www.dj-dj.be/projects/nextai)
-This is an AI project for discord, you can make entire chatbots with it. I want to make the most advanced AI discord bots, eventually the project will be Open-Source. It's a module that is already used in several of my bots (minebot, custom bots).
+### [MineLink Bot](https://minelink.dj-dj.be)
+**Language: a lot :) | private repo | type: discord bot**</br>
+The minelink bot is an advanced discord bot with hundreds of features </br>themed around minecraft. It helps you with starting & growing your </br>minecraft server/community!
+
+<img src="https://www.dj-dj.be/wp-content/uploads/2022/10/minelink-logo-512.png" width="100px">
+
+[Visit on website](https://www.dj-dj.be/projects/minelink) - [Main Website](https://minelink.dj-dj.be) - [Invite](https://invite.minelink.dj-dj.be)
+<hr width="70%">
+
+
+
+
+### [CPU Temperature](https://www.dj-dj.be/projects/cpu-temp)
+**Language: electron | not yet public | type: desktop app**</br>
+An app that notifies you when your CPU temperature gets too hot!</br>You can also see the maximum & minimum temperature! </br>And it can run in the background!
+
+<img src="https://www.dj-dj.be/wp-content/uploads/2022/06/appstore1024.png" width="100px">
+
+[Visit on website](https://www.dj-dj.be/projects/cpu-temp) - [Download (MacOS Intel Only!)](https://www.dj-dj.be/wp-content/uploads/2022/09/cpu-temperature-public.zip)
+<hr width="70%">
 
 ## Stats
 <img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=nord&hide_border=true"> </img>
