@@ -9,6 +9,14 @@ I'm the owner of DJdj Development, a starting group of developers. We make a lot
 
 <img src="https://www.dj-dj.be/wp-content/uploads/2021/07/logo-programmeren.png" width="200px">
 
+### Contact
+Discord: DJj123dj#1706</br>
+Private email: hotdog@dj-dj.be
+
+Organisation email: support@dj-dj.be</br>
+Organisation discord: [discord.dj-dj.be](https://discord.dj-dj.be)</br>
+Organisation website: [www.dj-dj.be](https://www.dj-dj.be)
+
 ## My experience
 I started with writing applescript, but I wanted more! So I started with other languages.
 I discovered <img src="https://www.dj-dj.be/wp-content/uploads/2022/11/clyde.png" width="20px"> mid 2021. When I saw the first discord bot, I wanted to create them too. And thats where the journey started.
@@ -26,22 +34,13 @@ I discovered <img src="https://www.dj-dj.be/wp-content/uploads/2022/11/clyde.png
   In late 2022, app development was on the planning. I started with creating apps & games, In Electron, Godot & Unity. I also learned Python & PHP :)
 </details>
 
+### My language Profile
+<img src="https://raw.githubusercontent.com/DJj123dj/DJj123dj/main/images/idk.png" width="80%">
+
 ### You can ask me for:
-- node.js apps
-- discord bots
-- html & css
-- Javascript & Typescript
-- Arduino
-- Applescript
-- Lua & Roblox Games.
-- Computercraft
-- Back-end & app development
-- Electron apps
+node.js apps, discord bots, html & css, Javascript, Arduino, Applescript, Lua & Roblox Games, Computercraft, Back-end & app development, Electron apps, godot games, tailwindcss & more!
 
-For help with all of the above you can find me on discord or on my website.
-
-### languages
-JavaScript, TypeScript, HTML, CSS, node.js, AppleScript, Swift, Arduino (c++), Electron & Lua
+<ins>If you need me for a project, feel free to Email me or send a DM via discord!</ins>
 
 ## I'm currently working on
 
@@ -57,16 +56,8 @@ An entire minecraft themed network with discord bots, websites, server scanners 
 ### [NextAI (go to website)](https://www.dj-dj.be/projects/nextai)
 This is an AI project for discord, you can make entire chatbots with it. I want to make the most advanced AI discord bots, eventually the project will be Open-Source. It's a module that is already used in several of my bots (minebot, custom bots).
 
-## Stats and contact
-### stats
+## Stats
 <img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=nord&hide_border=true"> </img>
 <img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJj123dj&theme=nord&layout=compact&langs_count=20&hide_border=true"> </img>
 
-### contact
-Email:
-support@dj-dj.be
-
-Private Email:
-hotdog@dj-dj.be
-
-[Discord](https://discord.gg/26vT9wt3n3) - [Website](https://www.dj-dj.be)
+[Discord](https://discord.dj-dj.be) - [Website](https://www.dj-dj.be)
