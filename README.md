@@ -76,6 +76,16 @@ An app that notifies you when your CPU temperature gets too hot!</br>You can als
 [Visit on website](https://www.dj-dj.be/projects/cpu-temp) - [Download (MacOS Intel Only!)](https://www.dj-dj.be/wp-content/uploads/2022/09/cpu-temperature-public.zip)
 <hr width="70%">
 
+## My GitHub Gists
+### [Advanced String to Number Converter (Javascript)](https://gist.github.com/DJj123dj/39a4daf6cb68d4d14be20466a64ce2a7)
+This is an Advanced String to Number converter! It can convert things like this:</br>
+`123.345.234,2` (String) to `123345234.2` (Number)</br>
+The coolest part is that it automatically detects the decimal point, so you can put a lot of dots or commas between the string.
+
+### [Discord.js 14 Start File (Node.js)](https://gist.github.com/DJj123dj/ab232f20ee22ff5e05e06426ecd6ed77)
+This is a file that you can use to rapidly create a new discord bot in djs 14.</br>
+It includes all the code needed to create a discord.js Client.
+
 ## Stats
 <img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=nord&hide_border=true"> </img>
 <img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJj123dj&theme=nord&layout=compact&langs_count=20&hide_border=true"> </img>
