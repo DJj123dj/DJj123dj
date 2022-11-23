@@ -1,4 +1,8 @@
 # Hello, I'm DJj123dj
+[![My github stars](https://img.shields.io/github/stars/DJj123dj?color=yellow&label=stars%20gained&logo=github&style=flat-square)](https://www.dj-dj.be)
+[![My discord server](https://img.shields.io/badge/discord-join%20my%20server-5865F2.svg?style=flat-square&logo=discord)](https://discord.dj-dj.be)
+[![Experience](https://img.shields.io/badge/experience-4%20years-red.svg?style=flat-square)](https://www.dj-dj.be/aboutus)
+
 My name is Jasper. I'm 14 years old and I live in Belgium.
 Most people know me as DJj123dj or just dj :)
 
