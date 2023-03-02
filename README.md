@@ -49,7 +49,7 @@ node.js apps, discord bots, html & css, Javascript, Arduino, Applescript, Lua & 
 ## My Projects
 
 ### [Open Ticket](https://www.github.com/DJj123dj/open-ticket)
-**Language: node.js | github stars: 51 | type: discord bot**</br>
+**Language: node.js | github stars: 80 | type: discord bot**</br>
 One of the most customisable discord ticket bots of all time!
 Create your own layout for buttons & edit everything in all the embeds!
 But remember, our goal is simplicity! So thats why we created a config file that is easy to understand!
