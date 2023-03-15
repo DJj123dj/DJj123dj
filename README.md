@@ -9,7 +9,7 @@ Most people know me as DJj123dj or just dj :)
 I started programming when I was 9, and I still love it to this day.
 I'm someone that loves to discover new things, thats why I have a wide range of things that I can do.
 
-I'm the owner of DJdj Development, a starting group of developers. We make a lot of cool stuff!
+I'm the founder of DJdj Development, a starting group of developers. We make a lot of cool stuff!
 
 <img src="https://www.dj-dj.be/wp-content/uploads/2021/07/logo-programmeren.png" width="200px">
 
