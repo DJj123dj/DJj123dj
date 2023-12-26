@@ -1,6 +1,17 @@
 # Hi, I'm DJj123dj!
-I'm a 15 year old student in Belgium who is facinated by everything related to programming! My real name is Jasper and I love pancakes!
-I started programming when I was 10 years old!
+I'm a 15 year old student in Belgium who is facinated by everything related to programming!
+
+### About me
+My real name is Jasper. I live in 🇧🇪 Belgium and I can speak Dutch, English and a very little bit of French.
+My hobbies are:
+- 🖥️ Programming
+- 🎧 DJ (and event lightning)
+- 🏀 Basketball
+
+I learned programming when I was 10 years old (using Scratch).
+Then I continued writing Applescript for over 2 years. But my first **real programming language* was node.js in 2019. I learned it by writing discord bots using discord.js. Eventually, I started creating sideprojects that became large projects. With these projects, I learned working with new languages like python, lua & java!
+
+I also started combining programming with my other hobbies, like DJ’ing. This year (2023), I made my very own lightning control software that makes use of virtual midi drivers, electron, tailwindcss & DMX to control all the lights live on the stage!
 
 ## My Skills
 ### Tools
@@ -20,43 +31,34 @@ I started programming when I was 10 years old!
 - Computercraft (minecraft)
 - Skript (minecraft)
 
-### DJdj Development
+## DJdj Development
 <img src="https://www.dj-dj.be/wp-content/uploads/2021/07/logo-programmeren.png" width="200px">
 
-### Contact
-Discord: DJj123dj#1706</br>
-Private email: hotdog@dj-dj.be
+In 2019, I founded the (sort of) company DJdj Development.
+It's a group of developers who create interesting projects together!
+Our main goal is to create qualitative open-source projects for everyone!
 
-Organisation email: support@dj-dj.be</br>
-Organisation discord: [discord.dj-dj.be](https://discord.dj-dj.be)</br>
-Organisation website: [www.dj-dj.be](https://www.dj-dj.be)
 
-## My experience
-I started with writing applescript, but I wanted more! So I started with other languages.
-I discovered <img src="https://www.dj-dj.be/wp-content/uploads/2022/11/clyde.png" width="20px"> mid 2021. When I saw the first discord bot, I wanted to create them too. And thats where the journey started.
-<details>
-  <summary>Click for more details!</summary>
-  
-  ### My Story (detailed)
-  
-  I started writing simple scripts in the language "applescript" when I was 9 years old (2017). I was getting addicted to programming so much that I wanted to program 24/7. It was just the feeling of "I can create anything I want!" My second language I started with was Swift from Apple. I can write the basics now, but i'm not finished yet.
+Our first project was Open Ticket, a popular open-source ticket bot! Then we also created 2 discord bots that everyone can host! One for minecraft, the other one for a calculator! Check out all our projects on our website!
 
-  In early 2021, I started with node.js when I discovered Discord. By creating discord bots & experimenting with the language. I slowly got to know Javascript, HTML & CSS. I'm still working with node.js today! It's my favourite language!
+[Discord](https://discord.dj-dj.be) - [Website](https://www.dj-dj.be) - [Github](https://www.github.com/djdj-development) - [Email](mailto:support@dj-dj.be)
 
-  In the summer of 2022 did I notice a problem... I could only do backend! So I started discovering a lot of graphical languages. I started with Tailwind CSS & HTML websites, I also made a roblox app once.
-  
-  In late 2022, app development was on the planning. I started with creating apps & games, In Electron, Godot & Unity. I also learned Python & PHP :)
-</details>
 
-### My language Profile
-<img src="https://raw.githubusercontent.com/DJj123dj/DJj123dj/main/images/idk.png" width="80%">
+### What can you ask us about?
+- discord bots
+- websites
+- node.js in general
+- electron apps
+- godot games
+- arduino
+- applescript
+- lua, computercraft & roblox games
+- tailwindcss & html
+- regex
+- wordpress
+And more!
 
-### You can ask me for:
-node.js apps, discord bots, html & css, Javascript, Arduino, Applescript, Lua & Roblox Games, Computercraft, Back-end & app development, Electron apps, godot games, tailwindcss & more!
-
-<ins>If you need me for a project, feel free to Email me or send a DM via discord!</ins>
-
-## My Projects
+## Projects
 
 ### [Open Ticket](https://www.github.com/DJj123dj/open-ticket)
 **Language: node.js | github stars: 80 | type: discord bot**</br>
