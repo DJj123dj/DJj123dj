@@ -1,98 +1,90 @@
-# Hello, I'm DJj123dj
-[![My github stars](https://img.shields.io/github/stars/DJj123dj?color=yellow&label=stars%20gained&logo=github&style=flat-square)](https://www.dj-dj.be)
-[![My discord server](https://img.shields.io/badge/discord-join%20my%20server-5865F2.svg?style=flat-square&logo=discord)](https://discord.dj-dj.be)
-[![Experience](https://img.shields.io/badge/experience-4.5%20years-red.svg?style=flat-square)](https://www.dj-dj.be/aboutus)
+# Hi, I'm DJj123dj!
+I'm a 15 year old student in Belgium who is facinated by everything related to programming!
 
-My name is Jasper. I'm 15 years old and I live in Belgium.
-Most people know me as DJj123dj or just dj :)
+### About me
+My real name is Jasper. I live in 🇧🇪 Belgium and I can speak Dutch, English and a very little bit of French.
+My hobbies are:
+- 🖥️ Programming
+- 🎧 DJ (and event lightning)
+- 🏀 Basketball
 
-I started programming when I was 10, and I still love it to this day.
-I'm someone that loves to discover new things, thats why I have a wide range of things that I can do.
+I learned programming when I was 10 years old (using Scratch).
+Then I continued writing Applescript for over 2 years. But my first **real programming language* was node.js in 2019. I learned it by writing discord bots using discord.js. Eventually, I started creating sideprojects that became large projects. With these projects, I learned working with new languages like python, lua & java!
 
-I'm the founder of DJdj Development, a starting group of developers. We make a lot of cool stuff! DJdj Development is mostly known for Open Ticket, the most customisable open source discord ticket bot ever!
+I also started combining programming with my other hobbies, like DJ’ing. This year (2023), I made my very own lightning control software that makes use of virtual midi drivers, electron, tailwindcss & DMX to control all the lights live on the stage!
 
+### Contact Me
+Email: [hotdog@dj-dj.be](mailto:hotdog@dj-dj.be)<br>
+Discord: djj123dj
+
+## My Skills
+### Tools
+![](https://skillicons.dev/icons?i=vscode,godot,github,arduino,discord,stackoverflow,linux,raspberrypi,vercel,replit,heroku,figma,ai,wordpress)
+
+### Languages
+![](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,py,cpp,java,lua,md,bash,regex,svg)
+
+### Frameworks
+![](https://skillicons.dev/icons?i=bots,electron,express,tailwind)
+
+### Other (I'm not that good at these)
+- Applescript
+- Swift
+- React
+- Roblox Development
+- Computercraft (minecraft)
+- Skript (minecraft)
+
+## DJdj Development
 <img src="https://www.dj-dj.be/wp-content/uploads/2021/07/logo-programmeren.png" width="200px">
 
-### Contact
-Discord: DJj123dj#1706</br>
-Private email: hotdog@dj-dj.be
+In 2019, I founded the (sort of) company DJdj Development.
+It's a group of developers who create interesting projects together!
+Our main goal is to create qualitative open-source projects for everyone!
 
-Organisation email: support@dj-dj.be</br>
-Organisation discord: [discord.dj-dj.be](https://discord.dj-dj.be)</br>
-Organisation website: [www.dj-dj.be](https://www.dj-dj.be)
 
-## My experience
-I started with writing applescript, but I wanted more! So I started with other languages.
-I discovered <img src="https://www.dj-dj.be/wp-content/uploads/2022/11/clyde.png" width="20px"> mid 2021. When I saw the first discord bot, I wanted to create them too. And thats where the journey started.
-<details>
-  <summary>Click for more details!</summary>
-  
-  ### My Story (detailed)
-  
-  I started writing simple scripts in the language "applescript" when I was 9 years old (2017). I was getting addicted to programming so much that I wanted to program 24/7. It was just the feeling of "I can create anything I want!" My second language I started with was Swift from Apple. I can write the basics now, but i'm not finished yet.
+Our first project was Open Ticket, a popular open-source ticket bot! Then we also created 2 discord bots that everyone can host! One for minecraft, the other one for a calculator! Check out all our projects on our website!
 
-  In early 2021, I started with node.js when I discovered Discord. By creating discord bots & experimenting with the language. I slowly got to know Javascript, HTML & CSS. I'm still working with node.js today! It's my favourite language!
+[Discord](https://discord.dj-dj.be) - [Website](https://www.dj-dj.be) - [Github](https://www.github.com/djdj-development) - [Email](mailto:support@dj-dj.be)
 
-  In the summer of 2022 did I notice a problem... I could only do backend! So I started discovering a lot of graphical languages. I started with Tailwind CSS & HTML websites, I also made a roblox app once.
-  
-  In late 2022, app development was on the planning. I started with creating apps & games, In Electron, Godot & Unity. I also learned Python & PHP :)
-</details>
 
-### My language Profile
-<img src="https://raw.githubusercontent.com/DJj123dj/DJj123dj/main/images/idk.png" width="80%">
+### What can you ask us about?
+- discord bots
+- websites
+- node.js in general
+- electron apps
+- godot games
+- arduino
+- applescript
+- lua, computercraft & roblox games
+- tailwindcss & html
+- regex
+- wordpress
+And more!
 
-### You can ask me for:
-node.js apps, discord bots, html & css, Javascript, Arduino, Applescript, Lua & Roblox Games, Computercraft, Back-end & app development, Electron apps, godot games, tailwindcss & more!
-
-<ins>If you need me for a project, feel free to Email me or send a DM via discord!</ins>
-
-## My Projects
-
+## Projects
 ### [Open Ticket](https://www.github.com/DJj123dj/open-ticket)
-**Language: node.js | github stars: 80 | type: discord bot**</br>
-One of the most customisable discord ticket bots of all time!
-Create your own layout for buttons & edit everything in all the embeds!
-But remember, our goal is simplicity! So thats why we created a config file that is easy to understand!
+The most advanced open source discord ticket bot with HTML transcripts and plugins! Compatible with discord.js 14.
+This project was made using node.js & discord.js
 
-<img src="https://www.dj-dj.be/wp-content/uploads/2022/04/openticket-logo-2.png" width="100px">
-
-[Visit on website](https://www.dj-dj.be/projects/open-ticket) - [GitHub](https://openticket.dj-dj.be) - [Wiki](https://docs.openticket.dj-dj.be)
-<hr width="70%">
-
-### [MineLink Bot](https://minelink.dj-dj.be)
-**Language: a lot :) | private repo | type: discord bot**</br>
-The minelink bot is an advanced discord bot with hundreds of features </br>themed around minecraft. It helps you with starting & growing your </br>minecraft server/community!
-
-<img src="https://www.dj-dj.be/wp-content/uploads/2022/10/minelink-logo-512.png" width="100px">
-
-[Visit on website](https://www.dj-dj.be/projects/minelink) - [Main Website](https://minelink.dj-dj.be) - [Invite](https://invite.minelink.dj-dj.be)
-<hr width="70%">
-
-
-
+### [Math Master](https://github.com/DJj123dj/math-master)
+A simple self-hosted calculator bot for discord. This project was made to test the new discord interaction buttons
+This project was made using node.js & discord.js
 
 ### [CPU Temperature](https://www.dj-dj.be/projects/cpu-temp)
-**Language: electron | not yet public | type: desktop app**</br>
-An app that notifies you when your CPU temperature gets too hot!</br>You can also see the maximum & minimum temperature! </br>And it can run in the background!
+A simple app made with electron to display your CPU temperature. You can download it on the website for free! (Intel Mac only atm)
 
-<img src="https://www.dj-dj.be/wp-content/uploads/2022/06/appstore1024.png" width="100px">
-
-[Visit on website](https://www.dj-dj.be/projects/cpu-temp) - [Download (MacOS Intel Only!)](https://www.dj-dj.be/wp-content/uploads/2022/09/cpu-temperature-public.zip)
-<hr width="70%">
-
-## My GitHub Gists
+## GitHub Gists
 ### [Advanced String to Number Converter (Javascript)](https://gist.github.com/DJj123dj/39a4daf6cb68d4d14be20466a64ce2a7)
 This is an Advanced String to Number converter! It can convert things like this:</br>
 `123.345.234,2` (String) to `123345234.2` (Number)</br>
-The coolest part is that it automatically detects the decimal point, so you can put a lot of dots or commas between the string.
+The cool part is that it automatically detects the decimal point, so you can put lots of dots or commas between the string.
 
 ### [Discord.js 14 Start File (Node.js)](https://gist.github.com/DJj123dj/ab232f20ee22ff5e05e06426ecd6ed77)
 This is a file that you can use to rapidly create a new discord bot in djs 14.</br>
 It includes all the code needed to create a discord.js Client.
 
 ## Stats
-<img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=nord&hide_border=true"> </img>
-<img alt="DJj123dj Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJj123dj&theme=nord&layout=compact&langs_count=20&hide_border=true"> </img>
-<img alt="DJj123dj Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DJj123dj&hide_border=true&border_radius=10&theme=nord">
-
-[Discord](https://discord.dj-dj.be) - [Website](https://www.dj-dj.be)
+![](https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=nord&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DJj123dj&theme=nord&layout=compact&langs_count=20&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DJj123dj&hide_border=true&border_radius=10&theme=nord)
