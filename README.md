@@ -27,18 +27,19 @@ Discord: djj123dj
 ### Frameworks
 ![](https://skillicons.dev/icons?i=bots,electron,express,tailwind)
 
-### Other (I'm not that good at these)
+### Other
 - Applescript
 - Swift
 - React
 - Roblox Development
 - Computercraft (minecraft)
 - Skript (minecraft)
+- KubeJS & CraftTweaker (minecraft)
 
 ## DJdj Development
-<img src="https://www.dj-dj.be/wp-content/uploads/2021/07/logo-programmeren.png" width="200px">
+<img src="https://apis.dj-dj.be/cdn/djdjdev/logo-monochrome.png" width="200px">
 
-In 2019, I founded the (sort of) company DJdj Development.
+In 2019, I founded DJdj Development.
 It's a group of developers who create interesting projects together!
 Our main goal is to create qualitative open-source projects for everyone!
 
@@ -48,7 +49,7 @@ Our first project was Open Ticket, a popular open-source ticket bot! Then we als
 [Discord](https://discord.dj-dj.be) - [Website](https://www.dj-dj.be) - [Github](https://www.github.com/djdj-development) - [Email](mailto:support@dj-dj.be)
 
 
-### What can you ask us about?
+### What can you ask us for?
 - discord bots
 - websites
 - node.js in general
@@ -71,8 +72,9 @@ This project was made using node.js & discord.js
 A simple self-hosted calculator bot for discord. This project was made to test the new discord interaction buttons
 This project was made using node.js & discord.js
 
-### [CPU Temperature](https://www.dj-dj.be/projects/cpu-temp)
-A simple app made with electron to display your CPU temperature. You can download it on the website for free! (Intel Mac only atm)
+### [Discord Alt Detector](https://www.npmjs.com/package/discord-alt-detector)
+Discord Alt Detector is a small npm package to catch alt accounts based on a first glimpse.
+It will check for badges, username, pfp, status & more just to detect alt & scam accounts!
 
 ## GitHub Gists
 ### [Advanced String to Number Converter (Javascript)](https://gist.github.com/DJj123dj/39a4daf6cb68d4d14be20466a64ce2a7)
