@@ -15,26 +15,27 @@ I also started combining programming with my other hobbies, like DJ’ing. This 
 
 ### Contact Me
 Email: [hotdog@dj-dj.be](mailto:hotdog@dj-dj.be)<br>
-Discord: djj123dj
+Discord: djj123dj<br>
+Daily.dev: [djj123dj](https://app.daily.dev/djj123dj)
 
 ## My Skills
-### Tools
-![](https://skillicons.dev/icons?i=vscode,godot,github,arduino,discord,stackoverflow,linux,raspberrypi,vercel,replit,heroku,figma,ai,wordpress)
+#### Operating Systems
+![](https://skillicons.dev/icons?i=apple,linux,windows,raspberrypi)
 
-### Languages
-![](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,py,cpp,java,lua,md,bash,regex,svg)
+#### Software
+![](https://skillicons.dev/icons?i=vscode,godot,github,npm,gcp,git,vercel,replit,heroku,ai,wordpress,robloxstudio&perline=6)
 
-### Frameworks
-![](https://skillicons.dev/icons?i=bots,electron,express,tailwind)
+#### Socials
+![](https://skillicons.dev/icons?i=discord,github,stackoverflow,linkedin,instagram,twitter)
 
-### Other
-- Applescript
-- Swift
-- React
-- Roblox Development
-- Computercraft (minecraft)
-- Skript (minecraft)
-- KubeJS & CraftTweaker (minecraft)
+#### Languages
+![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,py,java,lua,md,bash,regex,svg,arduino&perline=6)
+
+#### Frameworks
+![](https://skillicons.dev/icons?i=bots,discordjs,electron,express,tailwind)
+
+#### Learning
+![](https://skillicons.dev/icons?i=apple,swift,react,cpp)
 
 ## DJdj Development
 <img src="https://apis.dj-dj.be/cdn/djdjdev/logo-monochrome.png" width="200px">
@@ -43,25 +44,9 @@ In 2019, I founded DJdj Development.
 It's a group of developers who create interesting projects together!
 Our main goal is to create qualitative open-source projects for everyone!
 
-
 Our first project was Open Ticket, a popular open-source ticket bot! Then we also created 2 discord bots that everyone can host! One for minecraft, the other one for a calculator! Check out all our projects on our website!
 
 [Discord](https://discord.dj-dj.be) - [Website](https://www.dj-dj.be) - [Github](https://www.github.com/djdj-development) - [Email](mailto:support@dj-dj.be)
-
-
-### What can you ask us for?
-- discord bots
-- websites
-- node.js in general
-- electron apps
-- godot games
-- arduino
-- applescript
-- lua, computercraft & roblox games
-- tailwindcss & html
-- regex
-- wordpress
-And more!
 
 ## Projects
 ### [Open Ticket](https://www.github.com/DJj123dj/open-ticket)
@@ -75,6 +60,9 @@ This project was made using node.js & discord.js
 ### [Discord Alt Detector](https://www.npmjs.com/package/discord-alt-detector)
 Discord Alt Detector is a small npm package to catch alt accounts based on a first glimpse.
 It will check for badges, username, pfp, status & more just to detect alt & scam accounts!
+
+### [Formatted Json Stringify](https://www.npmjs.com/package/formatted-json-stringify)
+Formatted Json Stringify is a small npm package which allows you use an advanced & customisable version of the JSON.stringify()!
 
 ## GitHub Gists
 ### [Advanced String to Number Converter (Javascript)](https://gist.github.com/DJj123dj/39a4daf6cb68d4d14be20466a64ce2a7)
