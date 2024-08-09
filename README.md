@@ -1,5 +1,7 @@
 # Hi, I'm DJj123dj!
-I'm a 16 year old student in Belgium who is facinated by everything related to programming!
+I'm a 16 year old student in Belgium who is fascinated by everything related to programming!
+
+> ### <i>"Any application that can be written in JavaScript, will eventually be written in JavaScript."</i> - Jeff Atwood
 
 ### About me
 My real name is Jasper. I live in 🇧🇪 Belgium and I can speak Dutch, English and a very little bit of French.
