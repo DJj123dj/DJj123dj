@@ -1,5 +1,5 @@
 # Hi, I'm DJj123dj!
-I'm a 15 year old student in Belgium who is facinated by everything related to programming!
+I'm a 16 year old student in Belgium who is facinated by everything related to programming!
 
 ### About me
 My real name is Jasper. I live in 🇧🇪 Belgium and I can speak Dutch, English and a very little bit of French.
@@ -8,10 +8,10 @@ My hobbies are:
 - 🎧 DJ (and event lightning)
 - 🏀 Basketball
 
-I learned programming when I was 10 years old (using Scratch).
+I learned programming when I was 10 years old (using Swift Playground).
 Then I continued writing Applescript for over 2 years. But my first **real programming language* was node.js in 2019. I learned it by writing discord bots using discord.js. Eventually, I started creating sideprojects that became large projects. With these projects, I learned working with new languages like python, lua & java!
 
-I also started combining programming with my other hobbies, like DJ’ing. This year (2023), I made my very own lightning control software that makes use of virtual midi drivers, electron, tailwindcss & DMX to control all the lights live on the stage!
+I also started combining programming with my other hobbies, like DJ’ing. Previous year (2023), I made my very own lightning control software that makes use of virtual midi drivers, electron, tailwindcss & DMX to control all the lights live on the stage!
 
 ### Contact Me
 Email: [hotdog@dj-dj.be](mailto:hotdog@dj-dj.be)<br>
@@ -41,8 +41,8 @@ Daily.dev: [djj123dj](https://app.daily.dev/djj123dj)
 <img src="https://apis.dj-dj.be/cdn/djdjdev/logo-monochrome.png" width="200px">
 
 In 2019, I founded DJdj Development.
-It's a group of developers who create interesting projects together!
-Our main goal is to create qualitative open-source projects for everyone!
+It's a group of developers that create interesting projects related to discord!
+We're mostly known for qualitative & customisable open-source projects!
 
 Our first project was Open Ticket, a popular open-source ticket bot! Then we also created 2 discord bots that everyone can host! One for minecraft, the other one for a calculator! Check out all our projects on our website!
 
