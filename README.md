@@ -17,8 +17,8 @@ I also started combining programming with my other hobbies, like DJ’ing. Previ
 
 ### Contact Me
 Email: [hotdog@dj-dj.be](mailto:hotdog@dj-dj.be)<br>
-Discord: djj123dj<br>
-Daily.dev: [djj123dj](https://app.daily.dev/djj123dj)
+Discord: DJj123dj (djj123dj)<br>
+Daily.dev: [DJj123dj](https://app.daily.dev/djj123dj)
 
 ## My Skills
 #### Operating Systems
@@ -52,7 +52,7 @@ Our first project was Open Ticket, a popular open-source ticket bot! Then we als
 
 ## Projects
 ### [Open Ticket](https://www.github.com/DJj123dj/open-ticket)
-The most advanced open source discord ticket bot with HTML transcripts and plugins! Compatible with discord.js 14.
+The most advanced open-source discord ticket bot with HTML transcripts, plugins, questions, claiming, pinning & more! Using discord.js v14 & JSON database! 
 This project was made using node.js & discord.js
 
 ### [Math Master](https://github.com/DJj123dj/math-master)
