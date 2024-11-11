@@ -28,16 +28,16 @@ Daily.dev: [DJj123dj](https://app.daily.dev/djj123dj)
 ![](https://skillicons.dev/icons?i=vscode,godot,github,npm,gcp,git,vercel,replit,heroku,ai,wordpress,robloxstudio&perline=6)
 
 #### Socials
-![](https://skillicons.dev/icons?i=discord,github,stackoverflow,linkedin,instagram,twitter)
+![](https://skillicons.dev/icons?i=discord,github,stackoverflow,linkedin,instagram,twitter,devto)
 
 #### Languages
-![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,py,java,lua,md,bash,regex,svg,arduino&perline=6)
+![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,deno,php,py,java,lua,md,bash,regex,svg,arduino,latex,mysql&perline=7)
 
 #### Frameworks
-![](https://skillicons.dev/icons?i=bots,discordjs,electron,express,tailwind)
+![](https://skillicons.dev/icons?i=bots,discordjs,electron,express,tailwind,babel)
 
 #### Learning
-![](https://skillicons.dev/icons?i=apple,swift,react,cpp)
+![](https://skillicons.dev/icons?i=apple,swift,react,cpp,bun,dart,flutter)
 
 ## DJdj Development
 <img src="https://apis.dj-dj.be/cdn/djdjdev/logo-monochrome.png" width="200px">
