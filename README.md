@@ -79,4 +79,4 @@ It includes all the code needed to create a discord.js Client.
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=nord&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DJj123dj&theme=nord&layout=compact&langs_count=20&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DJj123dj&hide_border=true&border_radius=10&theme=nord)
+![](https://github-readme-streak-stats-nine-chi.vercel.app?user=DJj123dj&theme=nord&hide_border=true)
