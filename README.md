@@ -9,11 +9,14 @@ My hobbies are:
 - 🖥️ Programming
 - 🎧 DJ (and event lightning)
 - 🏀 Basketball
+- 🏖️ Volunteer & programmer at [Kazou Limburg](https://www.kazou.be/)
+
+![](https://apis.dj-dj.be/cdn/kazou/logo-small.png)
 
 I learned programming when I was 10 years old (using Swift Playground).
-Then I continued writing Applescript for over 2 years. But my first **real programming language* was node.js in 2019. I learned it by writing discord bots using discord.js. Eventually, I started creating sideprojects that became large projects. With these projects, I learned working with new languages like python, lua & java!
+Then I continued writing Applescript for over 2 years. But my first *real programming language* was node.js in 2019. I learned it by writing discord bots using discord.js. Eventually, I started creating sideprojects that became large projects. With these projects, I learned working with new languages like python, lua & java!
 
-I also started combining programming with my other hobbies, like DJ’ing. Previous year (2023), I made my very own lightning control software that makes use of virtual midi drivers, electron, tailwindcss & DMX to control all the lights live on the stage!
+I also started combining programming with my other hobbies, like DJ’ing. In 2023, I made my very own lightning control software that makes use of virtual midi drivers, electron, tailwindcss & DMX to control lightning, lasers & more live on stage!
 
 ### Contact Me
 Email: [hotdog@dj-dj.be](mailto:hotdog@dj-dj.be)<br>
@@ -43,10 +46,10 @@ Daily.dev: [DJj123dj](https://app.daily.dev/djj123dj)
 <img src="https://apis.dj-dj.be/cdn/djdjdev/logo-monochrome.png" width="200px">
 
 In 2019, I founded DJdj Development.
-It's a group of developers that create interesting projects related to discord!
-We're mostly known for qualitative & customisable open-source projects!
+We create open-source bots and Discord related stuff!
+Our goal is to create qualitative projects and to revolutionize the industry with new features!
 
-Our first project was Open Ticket, a popular open-source ticket bot! Then we also created 2 discord bots that everyone can host! One for minecraft, the other one for a calculator! Check out all our projects on our website!
+Our most popular project is Open Ticket, a popular open-source ticket bot! We also have some tools & npm packages for Discord bot developers. Check out all our projects on our website!
 
 [Discord](https://discord.dj-dj.be) - [Website](https://www.dj-dj.be) - [Github](https://www.github.com/djdj-development) - [Email](mailto:support@dj-dj.be)
 
