@@ -46,8 +46,7 @@ Youtube: [DJdj Development](https://www.youtube.com/channel/@djdjdevelopment)
 ![](https://skillicons.dev/icons?i=bots,discordjs,electron,express,tailwind,babel)
 
 #### Learning
-![](https://skillicons.dev/icons?i=apple,swift,react,cpp,bun,dart,flutter)
-
+![](https://skillicons.dev/icons?i=apple,swift,react,cpp,bun)
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=nord&hide_border=true)
@@ -70,6 +69,16 @@ It will check for badges, username, pfp, status & more just to detect alt & scam
 ### [Formatted Json Stringify](https://www.npmjs.com/package/formatted-json-stringify)
 Formatted Json Stringify is a small npm package which allows you use an advanced & customisable version of the JSON.stringify()!
 
+### [Logbucket](https://www.npmjs.com/package/logbucket)
+A lightweight and customizable logging library for Node.js featuring beautiful logs with configurable colors, prefixes and the ability to be saved to a debug file in real-time.
+
+### LiveControl
+Real-time lightning control software for DJ's with the ability to control DMX-powered lights.  
+(This is a private project, but I just want to share it)
+
+### TeamPlayer
+User management software for sportclubs in Belgium.
+
 ## GitHub Gists
 ### [Advanced String to Number Converter (Javascript)](https://gist.github.com/DJj123dj/39a4daf6cb68d4d14be20466a64ce2a7)
 This is an Advanced String to Number converter! It can convert things like this:</br>
@@ -80,14 +89,13 @@ The cool part is that it automatically detects the decimal point, so you can put
 This is a file that you can use to rapidly create a new discord bot in djs 14.</br>
 It includes all the code needed to create a discord.js Client.
 
-
 ## DJdj Development
 <img src="https://apis.dj-dj.be/cdn/djdjdev/logo-monochrome.png" width="200px">
 
-In 2019, I founded DJdj Development.
-We create open-source bots and Discord related stuff!
-Our goal is to create qualitative projects and to revolutionize the industry with new features!
+In 2019 I founded DJdj Development, it's my *fictional* company for all Discord related projects.
+The main focus of DJdj Development is creating qualitative open-source discord bots and related npm packages for bot developers.
+We also like to revolutionize the industry with new features, ideas and commands in our Discord Bots.
 
-Our most popular project is Open Ticket, a popular open-source ticket bot! We also have some tools & npm packages for Discord bot developers. Check out all our projects on our website!
+Our most popular project is Open Ticket, the most customisable open-source ticket bot on Github! You can check all our projects on our website!
 
 [Discord](https://discord.dj-dj.be) - [Website](https://www.dj-dj.be) - [Github](https://www.github.com/djdj-development) - [Email](mailto:support@dj-dj.be)
