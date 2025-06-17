@@ -29,24 +29,24 @@ Daily.dev: [DJj123dj](https://app.daily.dev/djj123dj)
 Twitter/X: [DJdj Development](https://x.com/DJdjDevelopment)  
 Youtube: [DJdj Development](https://www.youtube.com/channel/@djdjdevelopment)
 
-## My Skills
+## My Skills & Tools
 #### Operating Systems
-![](https://skillicons.dev/icons?i=apple,linux,windows,raspberrypi)
+![](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=apple,linux,windows,raspberrypi)
 
 #### Software
-![](https://skillicons.dev/icons?i=vscode,godot,github,npm,gcp,git,vercel,replit,heroku,ai,wordpress,robloxstudio&perline=6)
+![](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=vscode,godot,github,git,npm,gcp,vercel,replit,chatgpt,firefox,xcode,photoshop,docker,robloxstudio,wordpress,chromedevtools,heroku,illustrator&perline=6)
 
 #### Socials
-![](https://skillicons.dev/icons?i=discord,github,stackoverflow,linkedin,instagram,twitter,devto)
+![](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=discord,github,stackoverflow,dailydev,devto,twitter,linkedin,instagram,reddit&perline=6)
 
 #### Languages
-![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,deno,php,py,java,lua,md,bash,regex,svg,arduino,latex,mysql&perline=7)
+![](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=html,css,js,ts,nodejs,deno,php,py,java,lua,md,bash,regex,svg,latex,arduino,scratch,sqlite,mysql,opensource&perline=5)
 
-#### Frameworks
-![](https://skillicons.dev/icons?i=bots,discordjs,electron,express,tailwind,babel)
+#### Frameworks & Tools
+![](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=bots,discordjs,electron,express,tailwind,babel,pm2,apache,elementor,daisyui&perline=5)
 
 #### Learning
-![](https://skillicons.dev/icons?i=apple,swift,react,cpp,bun)
+![](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=apple,swift,react,cpp,ffmpeg,rust)
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=nord&hide_border=true)
