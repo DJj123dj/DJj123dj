@@ -1,5 +1,5 @@
 # Hi there, I'm DJj123dj 😎
-I'm a 16 year old student from Belgium and I create projects and stuff that actually works! Programming is my primary hobby and my dream is to make it my job.
+I'm a 17 year old student from Belgium and I create projects and stuff that actually works! Programming is my primary hobby and my dream is to make it my job.
 
 > ### <i>"Any application that can be written in JavaScript, will eventually be written in JavaScript."</i> - Jeff Atwood
 
@@ -72,12 +72,15 @@ Formatted Json Stringify is a small npm package which allows you use an advanced
 ### [Logbucket](https://www.npmjs.com/package/logbucket)
 A lightweight and customizable logging library for Node.js featuring beautiful logs with configurable colors, prefixes and the ability to be saved to a debug file in real-time.
 
-### LiveControl
-Real-time lightning control software for DJ's with the ability to control DMX-powered lights.  
-(This is a private project, but I just want to share it)
+### [Train Speed Limits (Factorio Mod)](https://mods.factorio.com/mod/train-speed-limits)
+A small mod for Factorio to limit trains to a certain speed in a signal block. Pretty useful if you respawn a lot because of crossing rails.
 
-### TeamPlayer
-User management software for sportclubs in Belgium.
+### LiveControl
+Real-time lightning software for DJ's with the ability to control DMX-powered lights. Just plug & play, no configuration required. Perfect for synced lights!
+(Private Project)
+
+### [TeamPlayer](https://www.team-player.be)
+User management software for sportclubs. Only available for known and registered sportclubs in Belgium.
 
 ## GitHub Gists
 ### [Advanced String to Number Converter (Javascript)](https://gist.github.com/DJj123dj/39a4daf6cb68d4d14be20466a64ce2a7)
