@@ -1,17 +1,17 @@
 # Hi there, I'm DJj123dj 😎
-I'm a 17 year old student from Belgium and I create projects and stuff that actually works! Programming is my primary hobby and my dream is to make it my job.
+I'm a 17 year old student from Belgium and I try to create awesome projects that actually work! Programming is one of my favorite hobbies and it's my dream to make it my job.
 
 > ### <i>"Any application that can be written in JavaScript, will eventually be written in JavaScript."</i> - Jeff Atwood
 
 ### About Me
-My real name is Jasper. I live in 🇧🇪 Belgium and I can speak Dutch, English and a very little bit of French.
+My real name is Jasper. I live in 🇧🇪 Belgium and my native language is Dutch. I also speak fairly fluent English and a very little bit of French.
 My hobbies are:
 - 🖥️ Programming
-- 🎧 DJ'ing (and event lightning + sound systems)
+- 🎧 DJ'ing
 - 🏀 Playing Basketball
 - 🏖️ Volunteer & Developer at [Kazou Limburg](https://www.kazou.be/)
-- 🥳 Playing Roblox & Watching Youtube
-- 😴 Automating stuff that only take 10 min manually
+- 🥳 Playing Factorio & Watching Youtube
+- 😴 Automating stuff that only takes 10 min
 
 ![](https://apis.dj-dj.be/cdn/kazou/logo-small.png)
 
@@ -76,7 +76,7 @@ A lightweight and customizable logging library for Node.js featuring beautiful l
 A small mod for Factorio to limit trains to a certain speed in a signal block. Pretty useful if you respawn a lot because of crossing rails.
 
 ### LiveControl
-Real-time lightning software for DJ's with the ability to control DMX-powered lights. Just plug & play, no configuration required. Perfect for synced lights!
+Real-time lightning software for DJ's with the ability to control DMX-powered lights. Just plug & play, no configuration required. Perfect for music-synced lightning!
 (Private Project)
 
 ### [TeamPlayer](https://www.team-player.be)
