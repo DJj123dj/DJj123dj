@@ -8,7 +8,6 @@ My real name is Jasper. I live in 🇧🇪 Belgium and my native language is Dut
 My hobbies are:
 - 🖥️ Programming
 - 🎧 DJ'ing
-- 🏀 Playing Basketball
 - 🏖️ Volunteer & Developer at [Kazou Limburg](https://www.kazou.be/)
 - 🥳 Playing Factorio & Watching Youtube
 - 😴 Automating stuff that only takes 10 min
