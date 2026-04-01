@@ -48,8 +48,8 @@ Youtube: [DJdj Development](https://www.youtube.com/channel/@djdjdevelopment)
 ![](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=apple,swift,react,cpp,ffmpeg,rust)
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=nord&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DJj123dj&theme=nord&layout=compact&langs_count=20&hide_border=true)
+![](https://github-readme-stats-virid-nu-80.vercel.app/api?username=DJj123dj&count_private=true&show_icons=true&theme=nord&hide_border=true)
+![](https://github-readme-stats-virid-nu-80.vercel.app/api/top-langs/?username=DJj123dj&theme=nord&layout=compact&langs_count=20&hide_border=true)
 ![](https://github-readme-streak-stats-nine-chi.vercel.app?user=DJj123dj&theme=nord&hide_border=true)
 
 ## Projects
