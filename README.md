@@ -1,10 +1,10 @@
 # Hi there, I'm DJj123dj 😎
-I'm a 17 year old student from Belgium and I try to create awesome projects that actually work! Programming is one of my favorite hobbies and it's my dream to make it my job.
+I'm an 18-year-old computer science student from Flanders (Belgium)! I try to create awesome projects that actually work! Programming is one of my favorite hobbies and it's my dream to make it my job.
 
 > ### <i>"Any application that can be written in JavaScript, will eventually be written in JavaScript."</i> - Jeff Atwood
 
 ### About Me
-My real name is Jasper. I live in 🇧🇪 Belgium and my native language is Dutch. I also speak fairly fluent English and a very little bit of French.
+My real name is Jasper. I live in 🇧🇪 Flanders (Belgium) and my native language is Dutch. I speak fairly fluent English and a very little bit of French.
 My hobbies are:
 - 🖥️ Programming
 - 🎧 DJ'ing
