@@ -1,16 +1,17 @@
 # Hi there, I'm DJj123dj 😎
-I'm an 18-year-old computer science student from Flanders (Belgium)! I try to create awesome projects that actually work! Programming is one of my favorite hobbies and it's my dream to make it my job.
+Hi, my name is Jasper and I'm an 18-year-old computer science student at KU Leuven in Belgium!  
+My goal is to make qualitative open-source software and practical solutions for real-world problems.  
+Most of my projects start with a problem I’ve experienced myself or a tool I wish existed in my own life.  
+Programming is one of my favorite hobbies and it's my dream to make it my job.  
 
 > ### <i>"Any application that can be written in JavaScript, will eventually be written in JavaScript."</i> - Jeff Atwood
 
 ### About Me
-My real name is Jasper. I live in 🇧🇪 Flanders (Belgium) and my native language is Dutch. I speak fairly fluent English and a very little bit of French.
-My hobbies are:
-- 🖥️ Programming
-- 🎧 DJ'ing
-- 🏖️ Volunteer & Developer at [Kazou Limburg](https://www.kazou.be/)
-- 🥳 Playing Factorio & Watching Youtube
-- 😴 Automating stuff that only takes 10 min
+My first name is Jasper. I live in Flanders (🇧🇪 Belgium) and my native language is Dutch.  
+I speak English fluently, and I know a little French.
+I love to DJ and work with music/stage lightning and to combine this with my programming-skills.
+
+In the summer I touch a lot of 🌱🌱 grass 🌱🌱 because I'm volunteer and camp monitor at [Kazou Limburg](https://www.kazou.be/)
 
 ![](https://apis.dj-dj.be/cdn/kazou/logo-small.png)
 
